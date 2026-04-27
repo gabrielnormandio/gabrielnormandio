@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel
+# 👋 Olá, eu sou o Gabriel Normandio
 
 🎯 Desenvolvedor Backend em formação
 
