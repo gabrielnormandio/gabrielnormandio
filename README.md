@@ -1,7 +1,41 @@
-## Olá! Eu sou Gabriel Normandio
+# 👋 Olá, eu sou o Gabriel
 
-- 🔨 Hoje estou desempregado.
-- 🌱 Estudando Java.
+🎯 Desenvolvedor Backend em formação
 
-<img align="center" alt="Gaab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Gaab-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img align="center" alt="Gaab-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em backend.
+
+Atualmente estou estudando Java e Spring Boot, desenvolvendo projetos práticos para evoluir minhas habilidades e me preparar para oportunidades de estágio.
+
+---
+
+## 🧠 Tecnologias que estou estudando
+
+- Java
+- Spring Boot
+- Git e GitHub
+- APIs REST
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Contas API  
+API REST para gerenciamento de contas bancárias  
+
+👉 https://github.com/gabrielnormandio/contas-api
+
+---
+
+## 📈 Objetivo
+
+Conseguir uma oportunidade de estágio em desenvolvimento backend e evoluir constantemente como desenvolvedor.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/gabrielnormandio
